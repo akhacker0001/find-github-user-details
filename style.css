@@ -1,0 +1,186 @@
+.search-bar{
+    border: 3px solid white;
+    height:65px;
+    width: 535px;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 20px;
+
+}
+body{
+    background-color: rgb(174, 234, 238);
+}
+input{
+    height: 40px;
+    width: 500px;
+    position: relative;
+    top: 13px;
+    left: 15px;
+    border: none;
+    outline: none;
+    background-color: rgb(174, 234, 238);
+    font-size: 20px;
+    color: green;
+}
+::placeholder{
+    color: rgb(4, 51, 54);
+}
+.contant{
+    /* border: 1px solid black; */
+    width: 800px;
+    margin: auto;
+    height: 400px;
+    margin-top: 50px;
+    display: flex;
+
+}
+.profile{
+    /* border: 1px solid black; */
+    width: 50%;
+    margin: auto;
+}
+.repo{
+    /* border: 1px solid black; */
+    width: 50%;
+}
+.heading{
+    /* border: 1px solid red; */
+    height: 80px;
+    text-align: center;
+    
+
+}
+h2{
+    font-size: 50px;
+    position: relative;
+    bottom: 30px;
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Tangerine', cursive;
+}
+.img{
+    /* border: 1px solid red; */
+    height: 200px;
+    text-align: center;
+
+}
+img{
+     height: 180px; 
+    border-radius: 60%; 
+    margin-top: 10px;
+}
+.features{
+    /* border: 1px solid red; */
+    height: 10%;
+    display: flex;
+    margin: 5px;
+}
+.followers{
+    width: 50%;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+.following{
+    width: 50%;
+    /* border: 1px solid black;  */
+    text-align: center; 
+}
+h3{
+    position: relative;
+    bottom: 10px;
+    
+}
+samp{
+    color: blue;
+}
+.bio{
+    /* border: 1px solid blue; */
+    height: auto;
+    text-align: center;
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Tangerine', cursive;
+    
+}
+#repo{
+    font-size: 20px;
+    color: black;
+    font-weight: 300;
+}
+.link-url{
+    /* border: 1px solid black; */
+    height: 10%;
+    margin-top: 20px;
+    text-align: center;
+   
+    /* font-family: 'Great Vibes', cursive; */
+    /* font-family: 'Parisienne', cursive; */
+    /* font-family: 'Tangerine', cursive; */
+    /* background-color: white; */
+}
+#profile{
+    font-size: 20px;
+    padding: 10px;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    font-family: 'Averia Serif Libre', cursive;
+    background-color: black;
+    color: white;
+}
+a:visited{
+    text-decoration: none;
+
+}
+a:link{
+    text-decoration: none;
+}
+.first-five{
+    /* border: 1px solid black; */
+    width: 80%;
+    margin: auto;
+    height: 250px;
+    margin-top: 5px;
+    text-align: center;
+}
+.total-repo{
+    /* border: 1px solid black; */
+    width: 50%;
+    margin: auto;
+    margin-top: 5px;
+    height: 60px;
+    text-align: center;
+}
+#view-more{
+    padding: 10px;
+    /* border: 1px solid black; */
+    position: relative;
+    top: 15px;
+    border-radius: 5px;
+}
+.repositery{
+padding: 7px;
+/* border: 1px solid black; */
+border-radius: 5px;
+}
+p{
+    margin: 25px;
+}
+.owner-name{
+    /* border:1px solid black; */
+    height: 10%;
+    text-align: center;
+
+}
+#owner{
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Parisienne', cursive;
+    font-family: 'Tangerine', cursive;
+    position: relative;
+    bottom: 20px;
+}
+#bio-data{
+    font-size: 25px;
+}
